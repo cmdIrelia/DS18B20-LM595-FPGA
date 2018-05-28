@@ -1,0 +1,12 @@
+module LCD(
+		Num1,
+		Num2,
+		Num3,
+		Num4,
+		
+		DIO,
+		SCLK,
+		RCLK,
+		
+		
+		)
